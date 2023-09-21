@@ -17,5 +17,8 @@ Ejercicio 4
 También puede ser de dos personas.
 Un miembro del equipo hará de jefe/a del equipo “J”, los otros dos de miembros del equipo
 de trabajo “M1” y “M2”.
+
+---
+
 B. “J” tiene que crear un repositorio nuevo e incluir el fichero dec2bin.py.
 Para que “M1” y “M2” puedan
