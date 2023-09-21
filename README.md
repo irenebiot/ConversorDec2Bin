@@ -1,9 +1,9 @@
 # Título principal
- una practica 
+una practica
 
- 
+ ## subtitulo
 Ejercicio 4
-A partir de este momento **vamos a aprender** a trabajar en equipo. Los ficheros que debes
+A partir de este momento **vamos a aprender** a trabajar en *equipo*. Los ficheros que debes
 utilizar en este ejercicio están en el Aula Virtual.
 A. Forma un equipo de 3 personas. También puede ser de dos personas.
 Un miembro del equipo hará de jefe/a del equipo “J”, los otros dos de miembros del equipo
